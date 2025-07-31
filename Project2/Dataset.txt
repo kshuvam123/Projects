@@ -1,0 +1,2 @@
+The CSV file used in this project can be found in
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
