@@ -1,0 +1,2 @@
+Dataset can be found in:
+https://www.kaggle.com/datasets/splcher/animefacedataset/data 
